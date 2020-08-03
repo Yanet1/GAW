@@ -1,2 +1,2 @@
 # GAW
-Control de tareas de Gestión Administración Web
+Control de tareas de Gestión Administración Web.
